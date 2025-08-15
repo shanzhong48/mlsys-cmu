@@ -1,2 +1,2 @@
-# mlsys-cmu
-implementation of hw from cmu mlsys course
+# MLsys
+CMU Deep Learning Systems
